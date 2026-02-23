@@ -1,6 +1,6 @@
 # 🚀 Automação de Testes E2E | Cypress - SauceDemo
 
-Projeto desenvolvido como parte da formação em **Quality Assurance (QA)**, com foco na automação de testes end-to-end utilizando **Cypress**, validando um fluxo real de compra em e-commerce.
+Projeto desenvolvido como parte da formação em **Qualidade de Software (QA) da EBAC.**, com foco na automação de testes end-to-end utilizando **Cypress**, validando um fluxo real de compra em e-commerce.
 
 🔗 Sistema testado:  
 https://www.saucedemo.com/
@@ -33,7 +33,6 @@ Fluxo automatizado:
 - Cypress
 - JavaScript
 - Node.js
-- VS Code
 
 ---
 
